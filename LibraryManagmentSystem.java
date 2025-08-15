@@ -1,6 +1,6 @@
 import java.util.*;
-
-class LibraryManagementSystem {
+//
+classLibraryManagementSystem {
     private final List<Book> books = new ArrayList<>();
     private final List<User> users = new ArrayList<>();
     private final List<Loan> loans = new LinkedList<>();
